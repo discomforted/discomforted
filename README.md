@@ -17,5 +17,10 @@ _ _ _
 
 <p align="center"> [GitHub Documentation](https://docs.github.com/) </p>
 
+<center>
+
+[Visit Google](https://www.google.com)
+
+</center>
 
 _ _ _
