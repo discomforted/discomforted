@@ -25,5 +25,11 @@ _ _ _
 
 <p align="center"> — </p>
 
+<div align="center">
+
+[☆ . BYI](https://rentry.co/BRINGER0FDEATH) 
+
+</div>
+
 _ _ _
 I may or may not update this soon.
