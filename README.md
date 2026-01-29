@@ -27,7 +27,7 @@ _ _ _
 
 <div align="center">
 
-[☆ . BYI](https://rentry.co/BRINGER0FDEATH) 
+[☆ . extended](https://rentry.co/BRINGER0FDEATH) 
 
 </div>
 
